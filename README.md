@@ -1,10 +1,13 @@
 # STATS 170 AB: Data Science Senior Capstone Project
 
-## Project Sponsor: Paciolan LLC
+## Project Sponsor 
+Paciolan LLC
 
-## Project Topic: Clustering and Classification Analysis on User-defined Custom Fields
+## Project Topic
+Clustering and Classification Analysis on User-defined Custom Fields
 
-## Team Member: Yihan Wang (Marlene), Sirui Hu (Katherine), Yadi Yang (Max) 
+## Team Member 
+Yihan Wang (Marlene), Sirui Hu (Katherine), Yadi Yang (Max) 
 
 ## Background
 Paciolan is a company aiming to serve the business clients, like the university sports and venues, and provide a better platform for them to serve their patrons and donors (users). 
@@ -30,7 +33,7 @@ Data Wrangling: numpy, pandas, json
 Data Analysis: scikit-learn, scipy, statsmodel
 Data Visualization: matplotlib, seaborn, plotly
 ### Communication:
-Jira, Slack
+Confluence, Jira, Slack
 ### Other Tools May Be Used:
 Looker, AWS SageMaker, Tableau
 
