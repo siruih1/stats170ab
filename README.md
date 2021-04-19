@@ -1,7 +1,7 @@
 # STATS 170 AB: Data Science Senior Capstone Project
 
 ## Project Sponsor 
-Paciolan LLC
+[Paciolan LLC] (https://www.paciolan.com/ "Paciolan's Homepage")
 
 ## Project Topic
 Clustering and Classification Analysis on User-defined Custom Fields
@@ -19,19 +19,24 @@ To derive business insights in helping define user categories and user potential
 To find out similar characteristics among users who have been assigned common custom keywords/tags.
 Features will be processed in a data analysis pipeline
 
+## Data Processing Pipeline Overview
+![pipeline img](./diagrams/Pipeline.svg "Pipline Overview")
+
+## Source Code 
+All code and notebook instances are stored in [notebooks](./notebooks)
+
 ## Tools/Softwares
 ### Database:
-#### Paciolan Snowflake Data Warehouse, 
-#### AWS S3 Bucket
+Paciolan Snowflake Data Warehouse, AWS S3 Bucket
 ### Compiler/IDE: 
 Jupyter Notebook, VS Code, R Studio (Optional)
 ### Programming Languages:
 Python, R (Optional)
 ### Packages: 
-##### Snowflake connector: snowflake.connector
-##### Data Wrangling: numpy, pandas, json
-##### Data Analysis: scikit-learn, scipy, statsmodel
-##### Data Visualization: matplotlib, seaborn, plotly
+- Snowflake connector: snowflake.connector
+- Data Wrangling: numpy, pandas, json
+- Data Analysis: scikit-learn, scipy, statsmodel
+- Data Visualization: matplotlib, seaborn, plotly
 ### Communication:
 Confluence, Jira, Slack
 ### Other Tools May Be Used:
