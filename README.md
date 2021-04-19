@@ -28,10 +28,10 @@ Jupyter Notebook, VS Code, R Studio (Optional)
 ### Programming Languages:
 Python, R (Optional)
 ### Packages: 
-#### Snowflake connector: snowflake.connector
-#### Data Wrangling: numpy, pandas, json
-#### Data Analysis: scikit-learn, scipy, statsmodel
-#### Data Visualization: matplotlib, seaborn, plotly
+##### Snowflake connector: snowflake.connector
+##### Data Wrangling: numpy, pandas, json
+##### Data Analysis: scikit-learn, scipy, statsmodel
+##### Data Visualization: matplotlib, seaborn, plotly
 ### Communication:
 Confluence, Jira, Slack
 ### Other Tools May Be Used:
