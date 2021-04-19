@@ -10,7 +10,7 @@ Clustering and Classification Analysis on User-defined Custom Fields
 Yihan Wang (Marlene), Sirui Hu (Katherine), Yadi Yang (Max) 
 
 ## Background
-Paciolan is a company aiming to serve the business clients, like the university sports and venues, and provide a better platform for them to serve their customers, e.g. patrons and donors. 
+Paciolan is a company aiming to serve the business clients, such as the university sports and venues, and provide a better platform for them to serve their customers, e.g. patrons and donors. 
 
 ## Goal
 To derive business insights in helping define user categories and user potential interests from the 5 client-defined major custom fields that were assigned to each user.
