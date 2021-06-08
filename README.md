@@ -20,7 +20,7 @@ To find out similar characteristics among users who have been assigned common cu
 Features will be processed in a data analysis pipeline.
 
 ## Data Processing Pipeline Overview
-![pipeline img](./diagrams/Pipeline.svg "Pipline Overview")
+![pipeline img](./diagrams/Pipeline.png "Pipline Overview")
 
 ## Source Code 
 All code and notebook instances are stored in [notebooks](./notebooks).
