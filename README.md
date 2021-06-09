@@ -4,7 +4,7 @@
 [Paciolan LLC](https://www.paciolan.com/ "Paciolan's Homepage")
 
 ## Project Topic
-Clustering and Classification Analysis on User-defined Custom Fields
+Uncovering Patterns of Custom Text Fields Usage for Client Tagging
 
 ## Team Members 
 Yihan Wang (Marlene), Sirui Hu (Katherine), Yadi Yang (Max) 
