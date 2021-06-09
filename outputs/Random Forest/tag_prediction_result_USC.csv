@@ -1,0 +1,3 @@
+,overall_result,total_number_of_account,total_number_of_acc_w_tag,Percentage of Tag,Correct Percentage,avg_f1,avg_auc,avg_sensitivity,avg_specificity,sense_gd,spec_gd,tag
+0,RandomForestClassifier(),168481,581,0.0034484600637460605,0.0003323819043071993,0.9527226612445094,0.9999534242362487,0.9357131415783384,0.9998987403851954,True,True,fbbb
+1,RandomForestClassifier(),168481,6666,0.03956529222879731,0.007051238720600979,0.914351431006,0.9969652231020186,0.8802456220043361,0.9979848935841116,True,True,fbonly
