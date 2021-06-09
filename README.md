@@ -75,7 +75,7 @@ Python
 - Snowflake connector: snowflake.connector
 - AWS S3 connector: boto3, botocore, s3fs
 - Data Wrangling: numpy, pandas, json
-- Data Analysis: scikit-learn, scipy, statsmodel
+- Data Analysis: scikit-learn, scipy, statsmodel, pyspark
 - Data Visualization: matplotlib, seaborn, plotly
 ### Communication:
 Slack, Email, Zoom
